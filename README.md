@@ -49,5 +49,34 @@ This project presents a hybrid deep learning approach for automated detection an
 
 ---
 
-## 📁 Folder Structure
+---
+
+## 🔍 Visualization
+
+<p align="center">
+  <img src="images/pca_visualization.png" width="400"/>
+</p>
+
+---
+
+## 💡 Future Work
+
+- Extend model to multi-crop disease detection
+- Replace SVM with transformer-based classifier
+- Deploy as a lightweight mobile or web app
+
+---
+
+## 🙋‍♀️ Author
+
+**Aakanksha**  
+📧 [Your Email] | 💼 [LinkedIn Profile]  
+🎓 Final Year ECE Undergraduate | Passionate about Deep Learning & Embedded Systems
+
+---
+
+## 📝 License
+
+This project is open-sourced for academic and research use.  
+Feel free to cite or contribute 💙
 
