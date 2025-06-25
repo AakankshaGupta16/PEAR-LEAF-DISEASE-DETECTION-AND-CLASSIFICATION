@@ -49,19 +49,12 @@ This project presents a hybrid deep learning approach for automated detection an
 
 ---
 
----
-
-## 🔍 Visualization
-
-<p align="center">
-  <img src="images/pca_visualization.png" width="400"/>
-</p>
 
 ---
 
 ## 💡 Future Work
 
-- Extend model to multi-crop disease detection
+- Extend model to multi-crop disease detection with increased accuracy
 - Replace SVM with transformer-based classifier
 - Deploy as a lightweight mobile or web app
 
@@ -70,7 +63,7 @@ This project presents a hybrid deep learning approach for automated detection an
 ## 🙋‍♀️ Author
 
 **Aakanksha**  
-📧 [Your Email] | 💼 [LinkedIn Profile]  
+📧 gupta.aakanksha2003@gmail.com | 💼 | https://www.linkedin.com/in/aakanksha-gupta-b32b9b24b/
 🎓 Final Year ECE Undergraduate | Passionate about Deep Learning & Embedded Systems
 
 ---
